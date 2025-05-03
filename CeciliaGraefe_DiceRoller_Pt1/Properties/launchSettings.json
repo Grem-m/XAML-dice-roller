@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "CeciliaGraefe_DiceRoller_Pt1": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
